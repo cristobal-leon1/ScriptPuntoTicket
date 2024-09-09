@@ -29,6 +29,6 @@
   ,,,.   ..             ,                                                        
                           ,                                            .,      
 
-🏴‍☠️🏴‍☠️ Proyecto: Script para entrar dentro de los 100 primeros en una fila de PuntoTicket 🏴‍☠️🏴‍☠️ 
+🏴‍☠️🏴‍☠️ Proyecto: Script para entrar dentro de los 1000 primeros en una fila de PuntoTicket 🏴‍☠️🏴‍☠️ 
 
 PRIVATE SOCKS5 PROXIES 09/09/2024 (972)
